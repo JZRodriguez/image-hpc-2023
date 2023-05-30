@@ -1,5 +1,7 @@
 # image-hpc-2023
 
+The main implementation done is the modification of the image. The changes done and sending the result back to reassemlbe them again.
+
 Usage:
 ```
 mpicc Img.c -lm -lspng -o ./Img
@@ -17,3 +19,6 @@ Expected output:
 [0] interlace method: 0
 [0] palette entries: 0
 ```
+
+Screenshot:
+![Image](Results.png)
